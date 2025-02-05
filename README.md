@@ -20,8 +20,8 @@ There are two main components in this project:
 │-- 📜 requirements.txt  # Required libraries
 │-- 📜 iris-classification.ipynb  # Model training and evaluation
 │-- 📜 iris-classification-input.ipynb  # User input-based prediction
-│-- 📂 dataset/  # (Optional) Folder for dataset if necessary
-│-- 📂 images/  # (Optional) Folder for visualization images
+│-- 📂 dataset/  # Folder for dataset
+│-- 📂 images/  # Folder for visualization images
 ```
 
 ## 🚀 How to Run the Project
